@@ -1,6 +1,6 @@
 cask "mactivate" do
-  version "1.0.0"
-  sha256 "6ae58888ef0bc36cc69a0efa1cd20f79fcdb02c250eeeff3bf310c9bee0397b8"
+  version "1.0.1"
+  sha256 "0875c25daa8ad30ac76886873e30354d615851d740b2b1eedc1679aacfbb4e26"
 
   url "https://github.com/HarshitBadam/mactivate/releases/download/v#{version}/Mactivate-#{version}.dmg"
   name "Mactivate"
